@@ -1,3 +1,5 @@
+# Move to https://codeberg.org/nibbula/yew/src/branch/master/deblarg
+
 This is a run down debugger that the yokels who hang about [town][1] in the
 [shell][2] are always getting un-ceremoniously tossed into. I'm sure you
 decent city folk would likely be better served by a right fancy debugger in
